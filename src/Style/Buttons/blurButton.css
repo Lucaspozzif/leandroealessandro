@@ -1,0 +1,19 @@
+.blur{
+    background-color: rgba(28, 28, 28, 0.6);
+    backdrop-filter: blur(2px);
+    height: 60px;
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.largeButton{
+    height: 40px;
+    width: auto;
+    margin-inline: 30px;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+}

@@ -1,0 +1,12 @@
+.signInButton{
+    background-color: rgba(196, 196, 196, 0.5);
+    width: 200px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.googleLogo{
+    height: 36px;
+    margin-left: 10px;
+}

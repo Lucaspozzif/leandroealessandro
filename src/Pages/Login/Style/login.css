@@ -1,0 +1,12 @@
+.line {
+    height: 1px;
+    margin-inline: 30px;
+}
+
+.dark80 {
+    background-color: rgba(28, 28, 28, 0.8);
+}
+
+.light80 {
+    background-color: rgba(196, 196, 196, 0.8);
+}

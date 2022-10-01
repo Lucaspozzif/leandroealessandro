@@ -1,0 +1,18 @@
+.input {
+    height: 40px;
+    padding-inline: 10px;
+    color: rgba(196, 196, 196, 0.8);
+    background-color: rgba(196, 196, 196, 0.3);
+    font-size: 18px;
+    border: none;
+    display: table-cell;
+    justify-content: space-between;
+    outline: none;
+}
+.parentDiv{
+    display: grid;
+    margin-inline: 10px;
+}
+::-webkit-input-placeholder{
+    color:rgba(196, 196, 196, 0.5) ;
+}
